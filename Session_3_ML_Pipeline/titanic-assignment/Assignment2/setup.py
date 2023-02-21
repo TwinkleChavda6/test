@@ -8,9 +8,9 @@ from setuptools import find_packages, setup
 # Package meta-data.
 NAME = 'tid-classification-model'
 DESCRIPTION = "Creating a Titanic Survival Classification model package from Train In Data."
-URL = "https://github.com/avigoen/ML_Ops_Sessions/tree/main/Assignments/titanic-assignment/Assignment2"
-EMAIL = "agoen97@gmail.com"
-AUTHOR = "AvinashGoen"
+URL = "https://github.com/TwinkleChavda6/test/tree/main/Session_3_ML_Pipeline/titanic-assignment/Assignment2"
+EMAIL = "proloveprodirluck@gmail.com"
+AUTHOR = "TwinkleChavda"
 REQUIRES_PYTHON = ">=3.6.0"
 
 
